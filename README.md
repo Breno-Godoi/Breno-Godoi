@@ -1,4 +1,4 @@
-👋 Hello there! I'm Breno, a passionate web developer with a strong background in industrial software and processes. I thrive on learning new tools and technologies and using them to build innovative solutions for the ever-evolving technology industry.
+👋 Hello there! I'm Breno, a passionate web developer with a strong industrial software and processes background. I thrive on learning new tools and technologies and using them to build innovative solutions for the ever-evolving technology industry.
 
 About Me
 
@@ -20,7 +20,7 @@ Projects Highlights
 
 Current Focus
 
-🔍 I'm currently diving deeper into front-end development and exploring frameworks like React Native to extend my skill set.
+🔍 I'm currently diving deeper into front-end development and exploring frameworks like React to extend my skill set.
 🌱 I'm also honing my skills in UI/UX design principles to create visually appealing and intuitive interfaces.
 Let's Connect
 
