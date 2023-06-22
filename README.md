@@ -14,9 +14,8 @@ Front-end Development: HTML5, CSS3, JavaScript, React, Vue.js
 Back-end Development: Node.js, Express.js, MongoDB
 UI/UX Design: Wireframing, Prototyping, Responsive Design
 Version Control: Git, GitHub
-Testing: Cypress, Enzyme
+Testing: Cypress, Jest
 Deployment: Heroku, Netlify, AWS
-Projects Highlights
 
 Current Focus
 
