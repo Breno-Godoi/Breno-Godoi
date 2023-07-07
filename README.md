@@ -6,16 +6,16 @@ About Me
 🎓 My educational background in industrial software has provided me with a unique perspective on building efficient and scalable solutions.
 🌟 I enjoy tackling complex problems and finding creative ways to solve them, all while maintaining a user-centric approach.
 📚 I'm a lifelong learner, constantly exploring new technologies and frameworks to stay up-to-date with the latest industry trends.
-🤝 I'm a strong believer in collaboration and teamwork, and I thrive in an environment where I can contribute to a collective goal.
+🤝 I'm a strong believer idea of bringing different people and disciplines together to solve issues and advance strategies.
 
 My Skills
 
 Front-end Development: HTML5, CSS3, JavaScript, React, Vue.js
-Back-end Development: Node.js, Express.js, MongoDB
+Back-end Development: PHP, Node.js, Express.js, MongoDB
 UI/UX Design: Wireframing, Prototyping, Responsive Design
 Version Control: Git, GitHub
 Testing: Cypress, Jest
-Deployment: Heroku, Netlify, AWS
+Deployment: Heroku, Netlify, AWS, Render
 
 Current Focus
 
