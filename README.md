@@ -19,7 +19,7 @@ Deployment: Heroku, Netlify, AWS
 
 Current Focus
 
-🔍 I'm currently diving deeper into front-end development and exploring frameworks like React to extend my skill set.
+🔍 I'm currently diving deeper into front-end development and exploring libraries like React to extend my skill set.
 🌱 I'm also honing my skills in UI/UX design principles to create visually appealing and intuitive interfaces.
 Let's Connect
 
