@@ -2,8 +2,8 @@
 
 About Me
 
-💻 I have a solid foundation in web development, specializing in front-end technologies such as HTML5, CSS3, and JavaScript.
-🎓 My educational background in industrial software has provided me with a unique perspective on building efficient and scalable solutions.
+💻 I have a solid foundation in web development, specializing in front-end technologies.
+🎓 My industrial software background has given me a unique perspective on building efficient and scalable solutions.
 🌟 I enjoy tackling complex problems and finding creative ways to solve them, all while maintaining a user-centric approach.
 📚 I'm a lifelong learner, constantly exploring new technologies and frameworks to stay up-to-date with the latest industry trends.
 🤝 I'm a strong believer idea of bringing different people and disciplines together to solve issues and advance strategies.
